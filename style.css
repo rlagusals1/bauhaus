@@ -1,0 +1,248 @@
+    *{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        text-decoration: none;
+    }
+    ul{
+        width: 100%;
+        height: 80px;
+        background-color:#1DDCEA; 
+        display: flex;
+        justify-content: center;
+    }
+    li{
+        width: 300px;
+        padding: 24px 0px;
+        text-align: center;
+        color: white;
+        font-family: "Noto Sans KR", sans-serif;
+        font-size: 18px;
+        font-weight: 500;
+        letter-spacing: -0.5px;
+        line-height: 26px;
+    }
+    .box00{
+        width: 1920px;
+        height: 900px;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        position: relative;
+    }
+    .box01{
+        font-size: 91px;
+        padding-left: 100px;
+        padding-top: 50px;
+        position: relative;
+        
+    }
+    .img01{margin-left: 950px; margin-top: -280px;position: relative;}
+    .img02{margin-left: 950px; margin-top: -250px;position: relative;}
+    .box02 {font-size:25px;
+        padding-left: 86px;
+        position: relative;
+        margin-top: 100px;
+    }
+    
+    .img04 {margin-left: 100PX;position: relative;
+           margin-top: 98px;}
+    .box03{font-size: 25px;
+        padding-left: 48px;
+        position: relative;
+        height:650px;
+        padding-top: 50px;
+    }
+    
+    .img03{margin-left: 1000px; margin-top:-550px;position: relative;}
+    .box04 {font-size: 25px;
+        padding: 48px;
+        position: relative;
+        }
+    
+    .box05{margin-left: 700px; margin-top :-400px;position: relative;}
+    .img06{position: relative;}
+    
+    .box07{font-size: 30px;
+        padding: 48px;
+        position: relative;
+        margin-top: 60x;}
+    .box08{ 
+        background-color: #FDE5FC;
+        padding-top: 25px;
+        position: relative;
+        height: 300px;
+        font-size: 29px;
+        padding: 48px;
+        }
+    
+    .box09{
+        font-size: 28px;
+        padding: 48px;
+        position: relative;
+        margin-top: 60x;}
+    
+     .box10{
+        background-color: #FDE5FC;
+        font-size: 30px;
+        padding-top: 30px;
+        position: relative;
+        height: 200px;
+        padding-left:100px;}
+        
+        .box11{
+            margin-left: 1120px; 
+            margin-top :-220px;
+            position: relative;}
+
+        .box12{
+           font-size: 28px;
+           padding: 48px;
+           position: relative;
+           margin-top: 60px;
+           margin-left: 60px;}
+        
+        .box13{
+        background-color: #FDE5FC;
+        font-size: 28px;
+        padding-top: 20px;
+        position: relative;
+        height: 300px;
+        padding-left:60px;} 
+
+        .box14{
+            margin-left: 1120px; 
+            margin-top :-220px;
+            position: relative;}
+        
+        .box15{
+           font-size: 35px;
+           padding: 48px;
+           position: relative;
+           margin-top: 60x;}
+        
+        .box16{
+         background-color: #FDE5FC;
+         font-size: 28px;
+         padding-top: 20px;
+         position: relative;
+         height: 220px;
+         padding-left:100px;} 
+        
+         .box17{
+            margin-left:1050px; 
+            margin-top :-218px;
+            position: relative;
+            }
+
+        .box18{   
+           font-size: 18px;
+           padding: 48px;
+           position: relative;
+           margin-top: 60x;}
+          
+        .box19{
+         background-color: #FDE5FC;
+         font-size: 28px;
+         padding-top: 20px;
+         position: relative;
+         height: 220px;
+         padding-left:60px;}
+        
+         .box20{
+           font-size: 18px;
+           padding: 28px;
+           position: relative;
+           margin-top: 80x;
+           padding-left:60px;}
+        
+        .box21{
+         background-color: #FDE5FC;
+         font-size: 25px;
+         padding-top: 18px;
+         position: relative;
+         height: 220px;
+         padding-left:60px;}
+        
+         .box22{
+            margin-left:1090px; 
+            margin-top :-218px;
+            position: relative;}
+        .box23{
+           font-size: 25px;
+           padding: 28px;
+           position: relative;
+           margin-top: 70px;
+           padding-left:90px;}
+    
+        .box24{
+           font-size: 25px;
+           padding: 28px;
+           position: relative;
+           margin-top: 20px;
+           padding-left:90px;}   
+        .box25{
+           font-size: 18px;
+           padding: 25px;
+           position: relative;
+           margin-top: 18px;
+           margin-left:88px;
+           padding-left:40px;}
+           
+           .box26{
+            background-color: #FDE5FC;
+            font-size: 23px;
+            padding-top: 18px;
+            position: relative;
+            height: 220px;
+            padding-left:60px;}
+           
+           .box27{
+           font-size:25px;
+           padding: 25px;
+           position: relative;
+           margin-top: 18px;
+           margin-left:88px;}
+            
+           .box28{
+            background-color: #0D0101;
+            font-size: 28px;
+            padding-top: 18px;
+            position: relative;
+            height: 70px;}
+           
+        .box29{
+            background-color: #BFB6B6;
+            font-size: 25px;
+            padding-top: 18px;
+            position: relative;
+            height: 20px;
+            text-align:right;
+        }
+           
+            .lightbluebox{ 
+        background-color: #1DDCEA;
+        height: 88px;
+        font-size:50px;
+        text-align:center;
+        padding-top: 30px;
+        position: relative;
+    }   
+
+    a > .top{
+        text-align: center;
+        background-color: #EDE6E7;
+        color: #0A0000;
+        font-family: "Noto Sans KR", sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: -0.5px;
+        padding: 20px 0px;
+        width: 60px;
+        text-transform: uppercase;
+        border-radius: 50px;
+        position: fixed;
+        right: 50px;
+        bottom: 50px;
+        z-index: 10;
+    }
